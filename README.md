@@ -42,7 +42,7 @@ Google Gemini 2.5 Flash または Gemini 2.5 Pro
 # 使い方
 
 # 1 プロンプトをGeminiの画面に張り付ける
-https://github.com/haru-works/voicevox_song_prompt/blob/main/Voicevox_song_prompt.md をGeminiの画面のチャットに張り付ける
+[Voicevox_song_prompt.md](https://github.com/haru-works/voicevox_song_prompt/blob/main/Voicevox_song_prompt.md) をGeminiの画面のチャットに張り付ける
 
 そうするとこんな感じでAIが質問を聞いてきます。
 
