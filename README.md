@@ -23,7 +23,7 @@ Google Gemini 2.5 Flash または Gemini 2.5 Pro
 
 ここにBPM出力
 
-### タイトル
+### 曲のタイトル
 
 ここに曲のタイトル出力
 
